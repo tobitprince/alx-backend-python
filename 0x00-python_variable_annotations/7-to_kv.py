@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
-'''Task 7's module.
-'''
+'''Task 7's module.'''
 from typing import Union, Tuple
 
 
